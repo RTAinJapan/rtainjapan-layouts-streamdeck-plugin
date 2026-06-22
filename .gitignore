@@ -1,0 +1,6 @@
+node_modules/
+/jp.rtainjapan.layouts.sdPlugin/bin
+/jp.rtainjapan.layouts.sdPlugin/logs
+*.log
+*.tsbuildinfo
+.DS_Store
